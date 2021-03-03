@@ -1,0 +1,533 @@
+[
+    {
+        "name": "Just Enough Items (JEI)",
+        "filename": "jei_1.12.2-4.16.1.302.jar",
+        "hash": "9dbc2c0ec8c28821fdd5dca487909089501607ee25c0e8470c43c9fd0bd12053",
+        "download": "3043174",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "JourneyMap",
+        "filename": "journeymap-1.12.2-5.7.1.jar",
+        "hash": "78b2fc80b91da9cc569153dd651959f1497dcf056e7f0893bb55ab59d5f0dad9",
+        "download": "2916002",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "VeinMiner",
+        "filename": "VeinMiner-1.12-0.38.2.647+b31535a.jar",
+        "hash": "f0dae2a977ba8e577bb09af05e4aab99d6adf9e4d01132bb3604cd0201399d46",
+        "download": "2528295",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Biomes O' Plenty",
+        "filename": "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+        "hash": "33343221c7b84098b41b093db8f2a4def42cc776beb18f5e3d354a321720e286",
+        "download": "2842510",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Iron Chests",
+        "filename": "ironchest-1.12.2-7.0.72.847.jar",
+        "hash": "29d3a4115d67b83eb542b618eb64db40db23a7f009a0f4dc9a396101d6f8491f",
+        "download": "2747935",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Tinkers Construct",
+        "filename": "TConstruct-1.12.2-2.13.0.183.jar",
+        "hash": "707107f746ffc9d2bf35912953ae1ce780f7b7c4b7cf86b4821a1a151bcf9f6f",
+        "download": "2902483",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "The Twilight Forest",
+        "filename": "twilightforest-1.12.2-3.11.1021-universal.jar",
+        "hash": "e1cee0a1e8f4aaedbd4381308fe6f32a6f69935e7bfb0df0748c2b292fb821ce",
+        "download": "3051450",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Extra Utilities",
+        "filename": "extrautils2-1.12-1.9.9.jar",
+        "hash": "6c1809eb2222604ebf3c051e1c7834b84049013b537633c2e5a1b0077ef9a940",
+        "download": "2678374",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Applied Energistics 2",
+        "filename": "appliedenergistics2-rv6-stable-7.jar",
+        "hash": "e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a",
+        "download": "2747063",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Aether: Lost Content",
+        "filename": "lost-aether-content-1.12.2-1.0.2.jar",
+        "hash": "23f3207d6b334f5b3e232cbebcd7b2ce8298b84c39296c0bdd9fd047d6dd10a7",
+        "download": "3038185",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "The Aether",
+        "filename": "aether-1.12.2-v1.5.3.1.jar",
+        "hash": "13b0fadf0c7b143ac7907caa4e8110a73ddd26674bb669f01c97b4573d516a74",
+        "download": "3158333",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Draconic Evolution",
+        "filename": "Draconic-Evolution-1.12.2-2.3.27.353-universal.jar",
+        "hash": "493e9a8c357096fe79a52c434cf35ef68572531de3ae8b8d8b70bcaf2ee146dd",
+        "download": "3051542",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Ender IO",
+        "filename": "EnderIO-1.12.2-5.2.66.jar",
+        "hash": "453e53e2c986a75d0daa15d7a8789948b2ab07799d56e1eebde728afa55c3b07",
+        "download": "3124452",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Waystones",
+        "filename": "Waystones_1.12.2-4.1.0.jar",
+        "hash": "5e79f329154d9a6225130f2b29dbcb0f603e2e622637e39ca566f8179b02ca15",
+        "download": "2859589",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Inventory Tweaks [1.12 only] ",
+        "filename": "InventoryTweaks-1.64+dev.151.jar",
+        "hash": "8b3d8f2392e3e455de6c99fac30740f558908c6896adc7dd7948be009b418f52",
+        "download": "2923460",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Chisel",
+        "filename": "Chisel-MC1.12.2-1.0.2.45.jar",
+        "hash": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7",
+        "download": "2915375",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Thermal Foundation",
+        "filename": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+        "hash": "5052f3e308b3ecb6620d26c5ab0cc15c0373732086337483a19fd4447e540ab0",
+        "download": "2926428",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Mekanism",
+        "filename": "Mekanism-1.12.2-9.8.3.390.jar",
+        "hash": "17573e0c3b2ff9d071a719a06a84c8cd89ca26d1ea3bd7f6e9f3842c4df88ea1",
+        "download": "2835175",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Mekanism Generators",
+        "filename": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+        "hash": "2bc1f1b8601abd40180eab9666e34a947d1be9e9b878ffd788d4b44e7713313c",
+        "download": "2835177",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Inventory Pets",
+        "filename": "inventorypets-1.12-2.0.12.jar",
+        "hash": "fedb1b55395e34d44154378a5b28e0b87b61b345555c87b875412e0061a775c7",
+        "download": "3196214",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Extreme Reactors",
+        "filename": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+        "hash": "175d0317c0e6637d7dc8910e0126f204582656def61d6aef700a6180dc22f712",
+        "download": "3194746",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Ender Storage 1.8.+",
+        "filename": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+        "hash": "06e2357019f4e0836bfb9202af013adc125252f610b198a7a547d4596d2934c0",
+        "download": "2755787",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Thermal Expansion",
+        "filename": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+        "hash": "f1cc8aeefcda2c00235bfb5ee7f76d731325aa324e90e84d7d232d88c1e6f472",
+        "download": "2926431",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Mystical Agriculture",
+        "filename": "MysticalAgriculture-1.12.2-1.7.5.jar",
+        "hash": "e84a70bbcb5dc559d28c7bc65f1ef1af512485097ad89c6748249b173019975c",
+        "download": "2704562",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Mekanism Tools",
+        "filename": "MekanismTools-1.12.2-9.8.3.390.jar",
+        "hash": "bbfbe3b0e5237b068e296f6503472252ce36463b67191bc6eb267b68e74adda3",
+        "download": "2835178",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Wawla - What Are We Looking At",
+        "filename": "Wawla-1.12.2-2.6.275.jar",
+        "hash": "272a3229f669bfe1bc1af748bf8f5fe312c2efa11f6798584f1029b899d95453",
+        "download": "2916368",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Thermal Dynamics",
+        "filename": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+        "hash": "ce3f08c8a0f36ba02fceafa47f25e80c7130727bd8e11206b37a4454d51da3b0",
+        "download": "2920505",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Mystical Agradditions",
+        "filename": "MysticalAgradditions-1.12.2-1.3.2.jar",
+        "hash": "58094bdace050ce943bc4b14033abc63e91e705233fc24c2d7f8d786c714884f",
+        "download": "2704832",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Thermal Innovation",
+        "filename": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+        "hash": "5c72f0db4476dab72c5c9cb68e9ef21ddb45f7b4cbedf4673d069f7d194b9886",
+        "download": "2920441",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Tinkers' Tool Leveling",
+        "filename": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+        "hash": "87e2702152d795efd8548b3a1ec9471469d7c705db1ec199a465807720ddcdcd",
+        "download": "2630860",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "OpenBlocks",
+        "filename": "OpenBlocks-1.12.2-1.8.1.jar",
+        "hash": "fbf81a96f87c609feb0d03933398fdf4bd8b24bc18119f4642e42b30580950fc",
+        "download": "2699056",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Baubles",
+        "filename": "Baubles-1.12-1.5.2.jar",
+        "hash": "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d",
+        "download": "2518667",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Actually Additions",
+        "filename": "ActuallyAdditions-1.12.2-r152.jar",
+        "hash": "21311e401f36a58222a50b6f0d66ac29614d7ab039c961dcc307fe499da030b6",
+        "download": "3117927",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Roguelike Dungeons",
+        "filename": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "hash": "0668c6dd53adfb837e2cb9e2650b9925fe250063f12bcd159d9f80093d4fef20",
+        "download": "2492586",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Pam's HarvestCraft",
+        "filename": "Pam's HarvestCraft 1.12.2zg.jar",
+        "hash": "9542e0863473b2cf61eff3fa7bdb9f096aaf7fc446c54750cbaa9db47a58f2fa",
+        "download": "2904825",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Pam's Get All the Seeds!",
+        "filename": "Pam's Get all the Seeds! 1.12a.jar",
+        "hash": "dddbb89981cbd688784d8b9c5ad12f2e74b4085a09bda1ea50e87860099c4b80",
+        "download": "2445431",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "MrCrayfish's Furniture Mod",
+        "filename": "furniture-6.3.1-1.12.2.jar",
+        "hash": "1a35017a806ff1ae1ae35b377aca2919d41e80e1221fd5b8c3f9b7017eb3d760",
+        "download": "2749993",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "BiblioCraft",
+        "filename": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+        "hash": "b3aab967cf9a2fcaf1330b5a5997f8d31e7a73884eac7451f1f31b2fa1394add",
+        "download": "2574880",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Enchanting Plus",
+        "filename": "EnchantingPlus-1.12.2-5.0.179.jar",
+        "hash": "c50f933ad448d9149d20c5cf95b2bf1a996d2a3e4adc9e98243e166ea3f67628",
+        "download": "2724705",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "More Avaritia",
+        "filename": "moreavaritia-mc1.12.2-v4.jar",
+        "hash": "6cf9a298387092aef4bcd4d052406132943117c8ac97a0f1d30105c806f12570",
+        "download": "3054338",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Environmental Tech",
+        "filename": "environmentaltech-1.12.2-2.0.20.1.jar",
+        "hash": "3331ac0d0f9093433b65ca7b18a8f2bca57bc45fef2d444267e7d7fc6b7bb3a1",
+        "download": "2691536",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Flux Networks",
+        "filename": "FluxNetworks-1.12.2-4.1.1.34.jar",
+        "hash": "9b48fcbf576095e0258379435c4a8bb15c5d1c2087edbe97fb4631e2e5cc98c6",
+        "download": "3178199",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Avaritia 1.1x",
+        "filename": "Avaritia-1.12.2-3.3.0.37-universal.jar",
+        "hash": "e37b89bf89d5cb75d0605cf03863537b7e52a73e2ff6fb033161989c43d33876",
+        "download": "3143349",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Mantle",
+        "filename": "Mantle-1.12-1.3.3.55.jar",
+        "hash": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65",
+        "download": "2713386",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Redstone Flux",
+        "filename": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+        "hash": "6ff7f96d076bfaad83fb6ba92ec457b8a76391439663b0cc32a9ec5398345280",
+        "download": "2920436",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Project Intelligence",
+        "filename": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+        "hash": "bdbb48ac3f504f224e5383e281e56e773aa6261defb6912c99fb6e0088d6fae9",
+        "download": "2833640",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "CodeChicken Lib 1.8.+",
+        "filename": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "hash": "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74",
+        "download": "2779848",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Brandon's Core",
+        "filename": "BrandonsCore-1.12.2-2.4.19.214-universal.jar",
+        "hash": "47debc4d157e0c3bfc00c07657c3ee5fe20c938470139c2bf7d5dd19baad590e",
+        "download": "3051539",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "EnderCore",
+        "filename": "EnderCore-1.12.2-0.5.76.jar",
+        "hash": "589a5c20816025835b00874d8de5b52544a3cdb508c391a9389d1f70ef20ab2e",
+        "download": "2972849",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "ConnectedTexturesMod",
+        "filename": "CTM-MC1.12.2-1.0.2.31.jar",
+        "hash": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b",
+        "download": "2915363",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "CoFH Core",
+        "filename": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+        "hash": "e07b0c48def9ce8cfaa4cf7a7c656bf7f7d6815f74fbcc2957dd43efa78486a9",
+        "download": "2920433",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "ZeroCore 2",
+        "filename": "zerocore-1.12.2-0.1.2.9.jar",
+        "hash": "fed0f20d19ed0c35f2b804a120419cfda398397e2aaa19e8494847b48c9ffb44",
+        "download": "3194743",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Cucumber Library",
+        "filename": "Cucumber-1.12.2-1.1.3.jar",
+        "hash": "0475ba0f0964c4a56afd1c2765b7063849ca2b77a91d80d7f612fb15354c27e5",
+        "download": "2645867",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Hwyla",
+        "filename": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "hash": "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124",
+        "download": "2568751",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "OpenModsLib",
+        "filename": "OpenModsLib-1.12.2-0.12.2.jar",
+        "hash": "47a2428297213cb3f6b3b75fe1604b002e1f5e4412a2ce77c362bf598e15a877",
+        "download": "2699055",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Soul Shards Respawn",
+        "filename": "SoulShardsRespawn-1.12.2-1.1.1-13.jar",
+        "hash": "0a4761a048cd219589ccf497fa64b0b28c91e0140aeae70622b054369d25934e",
+        "download": "2741336",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "Bookshelf",
+        "filename": "Bookshelf-1.12.2-2.3.590.jar",
+        "hash": "043afbddfd567e753a893f5a8f0e052db7c45209a08d09d9dcf32cadca764109",
+        "download": "2836960",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "ValkyrieLib",
+        "filename": "valkyrielib-1.12.2-2.0.20.1.jar",
+        "hash": "24a72428d22c04040e8a60899a395283ca8512f39bfb0cec62ecf9109bf891e0",
+        "download": "2691542",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
+    },
+    {
+        "name": "OptiFine",
+        "filename": "OptiFine_1.12.2_HD_U_G5_MOD.jar",
+        "hash": "b514c67fbc6362107f5f299904ed024b94a732c2522392f0a5e3297f52b01c04",
+        "download": "https://raw.githubusercontent.com/kernel-pan-ic/modpack/main/mods/OptiFine_1.12.2_HD_U_G5_MOD.jar",
+        "server": true,
+        "client": true,
+        "type": "direct"
+    }
+]
