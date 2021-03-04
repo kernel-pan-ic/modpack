@@ -529,5 +529,14 @@
         "server": true,
         "client": true,
         "type": "direct"
+    },
+    {
+        "name": "CoFH World",
+        "filename": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+        "hash": "f10cd57075690ecbe52094f8af0d2a5af12f89c82b7c6eb73d3d090d74206ea0",
+        "download": "2920434",
+        "server": true,
+        "client": true,
+        "type": "curseforge"
     }
 ]
